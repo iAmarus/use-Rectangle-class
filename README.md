@@ -1,4 +1,4 @@
-public class HomeWork {
+public class Test {
 
 	public static void main(String[] args) {
 		Rectangle rectangle1 = new Rectangle();
